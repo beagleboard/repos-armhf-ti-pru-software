@@ -1,0 +1,6 @@
+ti-pru-software-v6.0 (6.0.1-git20211124.0-0~bullseye+20211203) bullseye; urgency=low
+
+  * Rebuild for repos.rcn-ee.com
+
+ -- Robert Nelson <robertcnelson@gmail.com>  Fri, 03 Dec 2021 10:49:29 -0600
+
